@@ -1,7 +1,7 @@
 package com.wanweijie.controller;
 
 import com.wanweijie.dao.ProductDao;
-import com.qiuhongtao.model.Category;
+import com.wanweijie.model.Category;
 import com.wanweijie.model.Product;
 
 import javax.servlet.*;
