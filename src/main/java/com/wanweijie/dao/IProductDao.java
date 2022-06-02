@@ -1,6 +1,6 @@
 package com.wanweijie.dao;
 
-import com.wanweijie.model.Product;
+import com.qiuhongtao.model.Product;
 
 import java.io.InputStream;
 import java.sql.Connection;

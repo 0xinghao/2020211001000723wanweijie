@@ -1,6 +1,6 @@
 package com.wanweijie.dao;
 
-import com.wanweijie.model.User;
+import com.qiuhongtao.model.User;
 
 import java.sql.Connection;
 import java.sql.SQLException;
